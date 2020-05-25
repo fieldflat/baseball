@@ -1,0 +1,714 @@
+ <!DOCTYPE html lang="ja"> 
+ <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --> 
+ <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="ja"> <![endif]--> 
+ <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]--> 
+ <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]--> 
+ <!--[if gt IE 8]><!--> 
+ <html lang="en"> 
+ <!--<![endif]--> 
+ <head> 
+     <meta charset="utf-8" /> 
+  <meta name="viewport" content="width=device-width" />
+ <meta name="description" content="NPB詳細データを提供しています。">
+<title>2019年度 鈴木 誠也【広島】打撃成績詳細（状況別）</title>
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+ <script> 
+     (adsbygoogle = window.adsbygoogle || []).push({ 
+          google_ad_client: "ca-pub-6040929795707475", 
+          enable_page_level_ads: true 
+     }); 
+ </script> 
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+ <script> 
+      (adsbygoogle = window.adsbygoogle || []).push({ 
+           google_ad_client: "ca-pub-6040929795707475", 
+           enable_page_level_ads: true 
+      }); 
+ </script> 
+<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+     <link href="stylesheets/style.css" rel="stylesheet" /> 
+     <script src="javascripts/jquery.min.js"></script> 
+     <script src="javascripts/responsive-tables.js"></script> 
+     <!--[if lt IE 9]> 
+   <link rel="stylesheet" href="stylesheets/ie.css"> 
+   <![endif]--> 
+     <!-- IE Fix for HTML5 Tags --> 
+     <!--[if lt IE 9]> 
+   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
+   <![endif]--> 
+     <!--[if lt IE 8]> 
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script> 
+   <![endif]--> 
+ </head> <body>
+  
+     <!-- container --> 
+  
+     <div class="container">
+         <h1>2019年度 鈴木 誠也【広島】打撃成績詳細（状況別）</h1> 
+         <div class="bar"> 
+             <a class="toggleMenu" href="#">Menu</a> 
+             <ul class="nav"> 
+                 <li class="list"> 
+                     <a href="http://baseballdata.jp/">ホーム</a> 
+                 <li class="list"> 
+                     <a href="#">チーム</a> 
+                     <ul> 
+                         <li> 
+                             <a href="#">セリーグ</a> 
+                             <ul> 
+                                 <li><a href="http://baseballdata.jp/c/">セリーグトップ</a></li> 
+                                 <li><a href="http://baseballdata.jp/1/">巨人</a></li> 
+                                 <li><a href="http://baseballdata.jp/2/">ヤクルト</a></li> 
+                                 <li><a href="http://baseballdata.jp/3/">DeNA</a></li> 
+                                 <li><a href="http://baseballdata.jp/4/">中日</a></li> 
+                                 <li><a href="http://baseballdata.jp/5/">阪神</a></li> 
+                                 <li><a href="http://baseballdata.jp/6/">広島</a></li> 
+                             </ul> 
+                         </li> 
+                         <li> 
+                             <a href="#">パリーグ</a> 
+                             <ul> 
+                                 <li><a href="http://baseballdata.jp/p/">パリーグトップ</a></li> 
+                                 <li><a href="http://baseballdata.jp/7/">西武</a></li> 
+                                 <li><a href="http://baseballdata.jp/8/">日本ハム</a></li> 
+                                 <li><a href="http://baseballdata.jp/9/">ロッテ</a></li> 
+                                 <li><a href="http://baseballdata.jp/11/">オリックス</a></li> 
+                                 <li><a href="http://baseballdata.jp/12/">ソフトバンク</a></li> 
+                                 <li><a href="http://baseballdata.jp/376/">楽天</a></li> 
+                             </ul> 
+                         </li> 
+                     </ul> 
+                 </li> 
+                 <li> 
+                     <a href="#">個人成績</a> 
+                     <ul> 
+                         <li> 
+                             <a href="#">セリーグ</a> 
+                             <ul> 
+                                 <li><a href="http://baseballdata.jp/ctop.html">打撃成績</a></li> 
+                                 <li><a href="http://baseballdata.jp//cptop.html">投手成績</a></li> 
+                                 <li><a href="http://baseballdata.jp/sabr/cNOI.html">打撃成績（セイバーメトリクス）</a></li> 
+                                 <li><a href="http://baseballdata.jp/sabr/cHIDARITU.html">投手成績（セイバーメトリクス）</a></li> 
+                                 <li><a href="http://baseballdata.jp/cdrm.html">規定打席未満</a></li> 
+                             </ul> 
+                         </li> 
+                         <li> 
+                             <a href="#">パリーグ</a> 
+                             <ul> 
+                                 <li><a href="http://baseballdata.jp/ptop.html">打撃成績</a></li> 
+                                 <li><a href="http://baseballdata.jp/pptop.html">投手成績</a></li> 
+                                 <li><a href="http://baseballdata.jp/sabr/pNOI.html">打撃成績（セイバーメトリクス）</a></li> 
+                                 <li><a href="http://baseballdata.jp/sabr/pHIDARITU.html">投手成績（セイバーメトリクス）</a></li> 
+                                 <li><a href="http://baseballdata.jp/pdrm.html">規定打席未満</a></li> 
+                             </ul> 
+                         </li> 
+                         <li> 
+                             <a href="#">交流戦</a> 
+                             <ul> 
+                                 <li><a href="http://baseballdata.jp/mm/ctop.html">打撃成績</a></li> 
+                                 <li><a href="http://baseballdata.jp/mm/cptop.html">投手成績</a></li> 
+                             </ul> 
+                         </li> 
+                                  <li><a href="#">条件別(野手)</a>  <ul>
+   <li><a href="../../condition/9/ctop.html">デーゲーム(セ)</a></li>
+   <li><a href="../../condition/9/ptop.html">デーゲーム（パ）</a></li>
+   <li><a href="../../condition/10/ctop.html">ナイター(セ)</a></li>
+   <li><a href="../../condition/10/ptop.html">ナイター（パ）</a></li>
+   <li><a href="../../condition/11/ctop.html">ホーム(セ)</a></li>
+   <li><a href="../../condition/11/ptop.html">ホーム（パ）</a></li>
+   <li><a href="../../condition/12/ctop.html">ビジター(セ)</a></li>
+   <li><a href="../../condition/12/ptop.html">ビジター（パ）</a></li>
+ </ul></li>
+                                 <li><a href="#">月別（野手）</a>  <ul>   <li ><a href="../../condition/1000001/ctop.html">3,4月(セ)</a></li>
+   <li ><a href="../../condition/1000001/ptop.html">3,4月（パ）</a></li>
+   <li ><a href="../../condition/1000002/ctop.html">5月(セ)</a></li>
+   <li ><a href="../../condition/1000002/ptop.html">5月（パ）</a></li>
+   <li ><a href="../../condition/1000003/ctop.html">6月(セ)</a></li>
+   <li ><a href="../../condition/1000003/ptop.html">6月（パ）</a></li>
+   <li ><a href="../../condition/1000004/ctop.html">7月(セ)</a></li>
+   <li ><a href="../../condition/1000004/ptop.html">7月（パ）</a></li>
+   <li ><a href="../../condition/1000005/ctop.html">8月(セ)</a></li>
+   <li ><a href="../../condition/1000005/ptop.html">8月（パ）</a></li>
+   <li ><a href="../../condition/1000006/ctop.html">9,10月(セ)</a></li>
+   <li ><a href="../../condition/1000006/ptop.html">9,10月（パ）</a></li>
+ </ul></li>
+                                 <li><a href="#">対戦チーム別（野手）</a> <ul>   <li ><a href="../../condition/4000001/ctop.html">巨(セ)</a></li>
+   <li ><a href="../../condition/4000001/ptop.html">巨（パ）</a></li>   <li ><a href="../../condition/4000002/ctop.html">ヤ(セ)</a></li>
+   <li ><a href="../../condition/4000002/ptop.html">ヤ（パ）</a></li>   <li ><a href="../../condition/4000003/ctop.html">DeNA(セ)</a></li>
+   <li ><a href="../../condition/4000003/ptop.html">DeNA（パ）</a></li>   <li ><a href="../../condition/4000004/ctop.html">中(セ)</a></li>
+   <li ><a href="../../condition/4000004/ptop.html">中（パ）</a></li>   <li ><a href="../../condition/4000005/ctop.html">阪(セ)</a></li>
+   <li ><a href="../../condition/4000005/ptop.html">阪（パ）</a></li>   <li ><a href="../../condition/4000006/ctop.html">広(セ)</a></li>
+   <li ><a href="../../condition/4000006/ptop.html">広（パ）</a></li>   <li ><a href="../../condition/4000007/ctop.html">西(セ)</a></li>
+   <li ><a href="../../condition/4000007/ptop.html">西（パ）</a></li>   <li ><a href="../../condition/4000008/ctop.html">日(セ)</a></li>
+   <li ><a href="../../condition/4000008/ptop.html">日（パ）</a></li>   <li ><a href="../../condition/4000009/ctop.html">ロ(セ)</a></li>
+   <li ><a href="../../condition/4000009/ptop.html">ロ（パ）</a></li>   <li ><a href="../../condition/4000011/ctop.html">オ(セ)</a></li>
+   <li ><a href="../../condition/4000011/ptop.html">オ（パ）</a></li>   <li ><a href="../../condition/4000012/ctop.html">ソ(セ)</a></li>
+   <li ><a href="../../condition/4000012/ptop.html">ソ（パ）</a></li>   <li ><a href="../../condition/4000376/ctop.html">楽(セ)</a></li>
+   <li ><a href="../../condition/4000376/ptop.html">楽（パ）</a></li></ul></li>
+                                  <li><a href="#">条件別(投手)</a> <ul>   <li ><a href="../../condition/9/cptop.html">デーゲーム(セ)</a></li>
+   <li ><a href="../../condition/9/pptop.html">デーゲーム（パ）</a></li>
+   <li ><a href="../../condition/10/cptop.html">ナイター(セ)</a></li>
+   <li ><a href="../../condition/10/pptop.html">ナイター（パ）</a></li>
+   <li ><a href="../../condition/11/cptop.html">ホーム(セ)</a></li>
+   <li ><a href="../../condition/11/pptop.html">ホーム（パ）</a></li>
+   <li ><a href="../../condition/12/cptop.html">ビジター(セ)</a></li>
+   <li ><a href="../../condition/12/pptop.html">ビジター（パ）</a></li>
+</ul></li>
+                                 <li><a href="#">月別（投手）</a> <ul>   <li ><a href="../../condition/1000001/cptop.html">3,4月(セ)</a></li>
+   <li ><a href="../../condition/1000001/pptop.html">3,4月（パ）</a></li>
+   <li ><a href="../../condition/1000002/cptop.html">5月(セ)</a></li>
+   <li ><a href="../../condition/1000002/pptop.html">5月（パ）</a></li>
+   <li ><a href="../../condition/1000003/cptop.html">6月(セ)</a></li>
+   <li ><a href="../../condition/1000003/pptop.html">6月（パ）</a></li>
+   <li ><a href="../../condition/1000004/cptop.html">7月(セ)</a></li>
+   <li ><a href="../../condition/1000004/pptop.html">7月（パ）</a></li>
+   <li ><a href="../../condition/1000005/cptop.html">8月(セ)</a></li>
+   <li ><a href="../../condition/1000005/pptop.html">8月（パ）</a></li>
+   <li ><a href="../../condition/1000006/cptop.html">9,10月(セ)</a></li>
+   <li ><a href="../../condition/1000006/pptop.html">9,10月（パ）</a></li>
+</ul></li>
+                                 <li><a href="#">対戦チーム別（投手）</a> <ul>   <li ><a href="../../condition/4000001/cptop.html">巨(セ)</a></li>
+   <li ><a href="../../condition/4000001/pptop.html">巨（パ）</a></li>
+   <li ><a href="../../condition/4000002/cptop.html">ヤ(セ)</a></li>
+   <li ><a href="../../condition/4000002/pptop.html">ヤ（パ）</a></li>
+   <li ><a href="../../condition/4000003/cptop.html">DeNA(セ)</a></li>
+   <li ><a href="../../condition/4000003/pptop.html">DeNA（パ）</a></li>
+   <li ><a href="../../condition/4000004/cptop.html">中(セ)</a></li>
+   <li ><a href="../../condition/4000004/pptop.html">中（パ）</a></li>
+   <li ><a href="../../condition/4000005/cptop.html">阪(セ)</a></li>
+   <li ><a href="../../condition/4000005/pptop.html">阪（パ）</a></li>
+   <li ><a href="../../condition/4000006/cptop.html">広(セ)</a></li>
+   <li ><a href="../../condition/4000006/pptop.html">広（パ）</a></li>
+   <li ><a href="../../condition/4000007/cptop.html">西(セ)</a></li>
+   <li ><a href="../../condition/4000007/pptop.html">西（パ）</a></li>
+   <li ><a href="../../condition/4000008/cptop.html">日(セ)</a></li>
+   <li ><a href="../../condition/4000008/pptop.html">日（パ）</a></li>
+   <li ><a href="../../condition/4000009/cptop.html">ロ(セ)</a></li>
+   <li ><a href="../../condition/4000009/pptop.html">ロ（パ）</a></li>
+   <li ><a href="../../condition/4000011/cptop.html">オ(セ)</a></li>
+   <li ><a href="../../condition/4000011/pptop.html">オ（パ）</a></li>
+   <li ><a href="../../condition/4000012/cptop.html">ソ(セ)</a></li>
+   <li ><a href="../../condition/4000012/pptop.html">ソ（パ）</a></li>
+   <li ><a href="../../condition/4000376/cptop.html">楽(セ)</a></li>
+   <li ><a href="../../condition/4000376/pptop.html">楽（パ）</a></li>
+</ul></li>
+  
+                     </ul> 
+                 </li> 
+                 <li> 
+                     <a href="#">アラカルト</a> 
+                     <ul> 
+                         <li><a href="http://baseballdata.jp/mdata/hidaritu.html">得点圏被打率 </a></li> 
+                         <li><a href="http://baseballdata.jp/mdata/sthidaritu.html">ストレート被打率 </a></li> 
+                         <li><a href="http://baseballdata.jp/mdata/TKdaritu.html">得点差状況別得点圏打率</a></li> 
+                         <li><a href="http://baseballdata.jp/TKdaritu2.html">得点差状況別打率 </a></li> 
+                         <li><a href="http://baseballdata.jp/mdata/shukunda.html">殊勲打ランキング</a></li> 
+                         <li><a href="http://baseballdata.jp/mdata/doin.html">観客動員＆試合時間</a></li> 
+                         <li><a href="http://baseballdata.jp/mdata/SQG.html">選球眼関連指標  
+                         </a></li> 
+                     </ul> 
+                 </li> 
+                 <li> 
+                     <a href="#">年度別</a> 
+                     <ul> 
+  
+                         <li><a href="http://baseballdata.jp/2019/">2019年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2018/">2018年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2017/">2017年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2016/">2016年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2015/">2015年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2014/">2014年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2013/">2013年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2012/">2012年度</a></li> 
+                         <li><a href="http://baseballdata.jp/2011/">2011年度</a></li> 
+  
+                     </ul> 
+                 </li> 
+               <li> 
+                      <a href="javascript:location.reload();">更新</a></li>  
+                         <li><a href="https://mlbdata.jp/" target="_blank">MLB</a></li> 
+  
+             </ul> 
+  
+             </div> 
+  
+             <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script> 
+  
+             <script src="javascripts/script.js"></script> 
+         <div class="main">
+             <div style="margin: 10px;text-align:center;"> 
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+                 <!-- レスポンシブ140409 --> 
+                 <ins class="adsbygoogle" 
+                     style="display: block" 
+                     data-ad-client="ca-pub-6040929795707475" 
+                     data-ad-slot="6076446756" 
+                     data-ad-format="auto"></ins> 
+                 <script> 
+                     (adsbygoogle = window.adsbygoogle || []).push({}); 
+ </script> 
+ </div> 
+
+ <div class="navi2">
+ <ul style="list-style-type:none;">
+   
+   <li class="linext"><a href="1200069.html">個人成績詳細トップ</a>
+   <li class="linext"><a href="1200069_2.html">Sabr & 選球眼</a>
+   <li class="linext"><a href="1200069_3.html">状況別</a>
+   <li class="linext"><a href="1200069_4.html">カウント別＆イニング別＆打球方向</a>
+   <li class="linext"><a href="1200069_5.html">対戦成績</a>
+   <li class="linext"><a href="1200069S.html">全打席成績</a>
+   <li class="linext"><a href="1200069_course.html">コース別（ゾーン別）成績</a>
+    </ul>
+ </div>
+<div class="twitter-timeline"><a href="https://twitter.com/share" class="twitter-share-button" data-via="baseballdata" data-lang="ja">ツイート</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a href="https://twitter.com/baseballdata" class="twitter-follow-button" data-show-count="false" data-lang="ja">@baseballdataをフォロー</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+<p class="pagetop"><a href="#wrap">TOP</a></p><h2>得点圏成績</h2>
+<table class="responsive">
+ <tbody>
+   <tr>
+     <th>
+
+     </th>
+     <th>
+打<br />率
+     </th>
+     <th>
+    打<br />点
+     </th>
+     <th>
+     本<br />塁<br />打
+     </th>
+     <th>
+     打<br />席<br />数
+     </th>
+     <th>
+    打<br />数
+     </th>
+     <th>
+     安<br />打
+     </th>
+     <th>
+     単<br />打
+     </th>
+     <th>
+     2<br />塁<br />打
+     </th>
+     <th>
+     3<br />塁<br />打
+     </th>
+     <th>
+    四<br />球
+     </th>
+     <th>
+   死<br />球
+     </th>
+     <th>
+    三<br />振
+     </th>
+     <th>
+    出<br />塁<br />率
+     </th>
+     <th>
+    長<br />打<br />率
+     </th>
+     <th>
+     O<br />P<br />S
+     </th>
+   </tr>
+<tr>     <td>
+ 通算
+     </td>
+     <td>
+.285
+     </td>
+     <td>
+56
+     </td>
+     <td>
+5
+     </td>
+     <td>
+177
+     </td>
+     <td>
+130
+     </td>
+     <td>
+37
+     </td>
+     <td>
+26
+     </td>
+     <td>
+6
+     </td>
+     <td>
+0
+     </td>
+     <td>
+29
+     </td>
+     <td>
+3
+     </td>
+     <td>
+35
+     </td>
+     <td>
+.418
+     </td>
+     <td>
+.446
+     </td>
+     <td>
+.864
+     </td>
+   </tr>
+<tr class="even">     <td>
+ ビハインド時
+     </td>
+     <td>
+.357
+     </td>
+     <td>
+22
+     </td>
+     <td>
+3
+     </td>
+     <td>
+50
+     </td>
+     <td>
+42
+     </td>
+     <td>
+15
+     </td>
+     <td>
+10
+     </td>
+     <td>
+2
+     </td>
+     <td>
+0
+     </td>
+     <td>
+5
+     </td>
+     <td>
+1
+     </td>
+     <td>
+13
+     </td>
+     <td>
+.429
+     </td>
+     <td>
+.619
+     </td>
+     <td>
+1.048
+     </td>
+   </tr>
+<tr>     <td>
+ 同点時
+     </td>
+     <td>
+.213
+     </td>
+     <td>
+16
+     </td>
+     <td>
+1
+     </td>
+     <td>
+66
+     </td>
+     <td>
+47
+     </td>
+     <td>
+10
+     </td>
+     <td>
+7
+     </td>
+     <td>
+2
+     </td>
+     <td>
+0
+     </td>
+     <td>
+13
+     </td>
+     <td>
+1
+     </td>
+     <td>
+12
+     </td>
+     <td>
+.387
+     </td>
+     <td>
+.319
+     </td>
+     <td>
+.706
+     </td>
+   </tr>
+<tr class="even">     <td>
+ リード時
+     </td>
+     <td>
+.293
+     </td>
+     <td>
+18
+     </td>
+     <td>
+1
+     </td>
+     <td>
+61
+     </td>
+     <td>
+41
+     </td>
+     <td>
+12
+     </td>
+     <td>
+9
+     </td>
+     <td>
+2
+     </td>
+     <td>
+0
+     </td>
+     <td>
+11
+     </td>
+     <td>
+1
+     </td>
+     <td>
+10
+     </td>
+     <td>
+.444
+     </td>
+     <td>
+.415
+     </td>
+     <td>
+.859
+     </td>
+   </tr>
+   </tbody></table>
+<h2>状況別成績マトリクス表</h2> <table class="responsive">    <tbody>      <tr>        <th></th>        <th colspan="5">ビハインド</th>        <th colspan="5">同点</th>        <th colspan="5">リード</th>        <th colspan="5">計</th>      </tr>      <tr class="ttl">        <td>ランナー</td>        <td>率</td>        <td>打</td>        <td>安</td>        <td>本</td>        <td>点</td>        <td>率</td>        <td>打</td>        <td>安</td>        <td>本</td>        <td>点</td>        <td>率</td>        <td>打</td>        <td>安</td>        <td>本</td>        <td>点</td>        <td>率</td>        <td>打</td>        <td>安</td>        <td>本</td>        <td>点</td>      </tr>      <tr>        <td>なし</td>        <td>.345</td>        <td>113</td>        <td>39</td>        <td>8</td>        <td>8</td>        <td>.417</td>        <td>72</td>        <td>30</td>        <td>3</td>        <td>3</td>        <td>.354</td>        <td>96</td>        <td>34</td>        <td>6</td>        <td>6</td>        <td class="ttl">.367</td>        <td class="ttl">281</td>        <td class="ttl">103</td>        <td class="ttl">17</td>        <td class="ttl">17</td>      </tr>      <tr>        <td>一塁</td>        <td>.276</td>        <td>29</td>        <td>8</td>        <td>2</td>        <td>5</td>        <td>.379</td>        <td>29</td>        <td>11</td>        <td>2</td>        <td>5</td>        <td>.267</td>        <td>30</td>        <td>8</td>        <td>2</td>        <td>4</td>        <td class="ttl">.307</td>        <td class="ttl">88</td>        <td class="ttl">27</td>        <td class="ttl">6</td>        <td class="ttl">14</td>      </tr>      <tr>        <td>二塁</td>        <td>.200</td>        <td>10</td>        <td>2</td>        <td>0</td>        <td>1</td>        <td>.091</td>        <td>22</td>        <td>2</td>        <td>0</td>        <td>1</td>        <td>.250</td>        <td>12</td>        <td>3</td>        <td>0</td>        <td>3</td>        <td class="ttl">.159</td>        <td class="ttl">44</td>        <td class="ttl">7</td>        <td class="ttl">0</td>        <td class="ttl">5</td>      </tr>      <tr>        <td>三塁</td>        <td>.000</td>        <td>3</td>        <td>0</td>        <td>0</td>        <td>0</td>        <td>.000</td>        <td>6</td>        <td>0</td>        <td>0</td>        <td>1</td>        <td>.333</td>        <td>3</td>        <td>1</td>        <td>0</td>        <td>2</td>        <td class="ttl">.083</td>        <td class="ttl">12</td>        <td class="ttl">1</td>        <td class="ttl">0</td>        <td class="ttl">3</td>      </tr>      <tr>        <td>一二塁</td>        <td>.429</td>        <td>21</td>        <td>9</td>        <td>3</td>        <td>14</td>        <td>.300</td>        <td>10</td>        <td>3</td>        <td>1</td>        <td>6</td>        <td>.214</td>        <td>14</td>        <td>3</td>        <td>0</td>        <td>3</td>        <td class="ttl">.333</td>        <td class="ttl">45</td>        <td class="ttl">15</td>        <td class="ttl">4</td>        <td class="ttl">23</td>      </tr>      <tr>        <td>一三塁</td>        <td>.500</td>        <td>6</td>        <td>3</td>        <td>0</td>        <td>5</td>        <td>.400</td>        <td>5</td>        <td>2</td>        <td>0</td>        <td>2</td>        <td>.375</td>        <td>8</td>        <td>3</td>        <td>1</td>        <td>5</td>        <td class="ttl">.421</td>        <td class="ttl">19</td>        <td class="ttl">8</td>        <td class="ttl">1</td>        <td class="ttl">12</td>      </tr>      <tr>        <td>二三塁</td>        <td>.000</td>        <td>0</td>        <td>0</td>        <td>0</td>        <td>0</td>        <td>1.000</td>        <td>1</td>        <td>1</td>        <td>0</td>        <td>2</td>        <td>.000</td>        <td>1</td>        <td>0</td>        <td>0</td>        <td>0</td>        <td class="ttl">.500</td>        <td class="ttl">2</td>        <td class="ttl">1</td>        <td class="ttl">0</td>        <td class="ttl">2</td>      </tr>      <tr>        <td>満塁</td>        <td>.500</td>        <td>2</td>        <td>1</td>        <td>0</td>        <td>2</td>        <td>.667</td>        <td>3</td>        <td>2</td>        <td>0</td>        <td>4</td>        <td>.667</td>        <td>3</td>        <td>2</td>        <td>0</td>        <td>5</td>        <td class="ttl">.625</td>        <td class="ttl">8</td>        <td class="ttl">5</td>        <td class="ttl">0</td>        <td class="ttl">11</td>      </tr>      <tr>        <td class="ttl">計</td>        <td class="ttl">.337</td>        <td class="ttl">184</td>        <td class="ttl">62</td>        <td class="ttl">13</td>        <td class="ttl">35</td>        <td class="ttl">.345</td>        <td class="ttl">148</td>        <td class="ttl">51</td>        <td class="ttl">6</td>        <td class="ttl">24</td>        <td class="ttl">.323</td>        <td class="ttl">167</td>        <td class="ttl">54</td>        <td class="ttl">9</td>        <td class="ttl">28</td>        <td class="ttl">.335</td>        <td class="ttl">499</td>        <td class="ttl">167</td>        <td class="ttl">28</td>        <td class="ttl">87</td>      </tr>    </tbody>  </table> <h2>得点差状況別成績</h2>        <table class="responsive">
+   <tbody>      <tr>        <th></th>        <th colspan="6">通算</th>        <th colspan="6">得点圏</th>      </tr>      <tr>        <th>得点差</th>        <th>率</th>        <th>打</th>        <th>安</th>        <th>本</th>        <th>点</th>        <th>振</th>        <th>率</th>        <th>打</th>        <th>安</th>        <th>本</th>        <th>点</th>        <th>振</th>        </tr> <tr>       <td>5点以上ビハインド</td>        <td>.250</td>        <td>36</td>        <td>9</td>        <td>2</td>        <td>5</td>        <td>7</td>                          <td>.375</td>        <td>8</td>        <td>3</td>        <td>0</td>        <td>3</td>        <td>3</td>            </tr><tr class="even">       <td>4点ビハインド</td>        <td>.409</td>        <td>22</td>        <td>9</td>        <td>2</td>        <td>6</td>        <td>3</td>                          <td>.500</td>        <td>6</td>        <td>3</td>        <td>1</td>        <td>5</td>        <td>1</td>            </tr><tr>       <td>3点ビハインド</td>        <td>.324</td>        <td>34</td>        <td>11</td>        <td>1</td>        <td>6</td>        <td>7</td>                          <td>.500</td>        <td>8</td>        <td>4</td>        <td>1</td>        <td>6</td>        <td>0</td>            </tr><tr class="even">       <td>2点ビハインド</td>        <td>.406</td>        <td>32</td>        <td>13</td>        <td>3</td>        <td>6</td>        <td>4</td>                          <td>.143</td>        <td>7</td>        <td>1</td>        <td>0</td>        <td>1</td>        <td>4</td>            </tr><tr>       <td>1点ビハインド</td>        <td>.333</td>        <td>60</td>        <td>20</td>        <td>5</td>        <td>12</td>        <td>11</td>                          <td>.308</td>        <td>13</td>        <td>4</td>        <td>1</td>        <td>7</td>        <td>5</td>            </tr><tr class="even">       <td>同点</td>        <td>.345</td>        <td>148</td>        <td>51</td>        <td>6</td>        <td>24</td>        <td>25</td>                          <td>.213</td>        <td>47</td>        <td>10</td>        <td>1</td>        <td>16</td>        <td>12</td>            </tr><tr>       <td>1点リード</td>        <td>.294</td>        <td>68</td>        <td>20</td>        <td>3</td>        <td>8</td>        <td>11</td>                          <td>.214</td>        <td>14</td>        <td>3</td>        <td>0</td>        <td>4</td>        <td>3</td>            </tr><tr class="even">       <td>2点リード</td>        <td>.368</td>        <td>38</td>        <td>14</td>        <td>3</td>        <td>11</td>        <td>6</td>                          <td>.333</td>        <td>12</td>        <td>4</td>        <td>0</td>        <td>7</td>        <td>4</td>            </tr><tr>       <td>3点リード</td>        <td>.235</td>        <td>17</td>        <td>4</td>        <td>1</td>        <td>1</td>        <td>2</td>                          <td>.000</td>        <td>2</td>        <td>0</td>        <td>0</td>        <td>0</td>        <td>1</td>            </tr><tr class="even">       <td>4点リード</td>        <td>.389</td>        <td>18</td>        <td>7</td>        <td>0</td>        <td>1</td>        <td>1</td>                          <td>.200</td>        <td>5</td>        <td>1</td>        <td>0</td>        <td>1</td>        <td>1</td>            </tr><tr>       <td>5点リード以上</td>        <td>.346</td>        <td>26</td>        <td>9</td>        <td>2</td>        <td>7</td>        <td>4</td>                          <td>.500</td>        <td>8</td>        <td>4</td>        <td>1</td>        <td>6</td>        <td>1</td>            </tr></tbody></table><h2>左右投手成績</h2>
+<table class="responsive">
+ <tbody>
+   <tr>
+     <th>
+
+     </th>
+     <th>
+打<br />率
+     </th>
+     <th>
+    打<br />点
+     </th>
+     <th>
+     本<br />塁<br />打
+     </th>
+     <th>
+     打<br />席<br />数
+     </th>
+     <th>
+    打<br />数
+     </th>
+     <th>
+     安<br />打
+     </th>
+     <th>
+     単<br />打
+     </th>
+     <th>
+     2<br />塁<br />打
+     </th>
+     <th>
+     3<br />塁<br />打
+     </th>
+     <th>
+    四<br />球
+     </th>
+     <th>
+   死<br />球
+     </th>
+     <th>
+    三<br />振
+     </th>
+     <th>
+    出<br />塁<br />率
+     </th>
+     <th>
+    長<br />打<br />率
+     </th>
+     <th>
+     O<br />P<br />S
+     </th>
+   </tr>
+<tr>     <td>
+ 右
+     </td>
+     <td>
+.304
+     </td>
+     <td>
+54
+     </td>
+     <td>
+17
+     </td>
+     <td>
+409
+     </td>
+     <td>
+336
+     </td>
+     <td>
+102
+     </td>
+     <td>
+70
+     </td>
+     <td>
+15
+     </td>
+     <td>
+0
+     </td>
+     <td>
+56
+     </td>
+     <td>
+7
+     </td>
+     <td>
+54
+     </td>
+     <td>
+.410
+     </td>
+     <td>
+.500
+     </td>
+     <td>
+.910
+     </td>
+   </tr>
+<tr>     <td>
+ 左
+     </td>
+     <td>
+.399
+     </td>
+     <td>
+33
+     </td>
+     <td>
+11
+     </td>
+     <td>
+203
+     </td>
+     <td>
+163
+     </td>
+     <td>
+65
+     </td>
+     <td>
+38
+     </td>
+     <td>
+16
+     </td>
+     <td>
+0
+     </td>
+     <td>
+35
+     </td>
+     <td>
+0
+     </td>
+     <td>
+27
+     </td>
+     <td>
+.505
+     </td>
+     <td>
+.699
+     </td>
+     <td>
+1.204
+     </td>
+   </tr>
+   </tbody></table>
+<h2>球種別安打割合</h2><div class="graph2" ><img src="http://chart.apis.google.com/chart?chds=0,10000&chma=10,10,10,10&chts=000000,15.5&chxs=0,000000,13.5&chxt=x&chs=616x318&cht=p&chco=2e8b57&chd=t:86,30,17,12,9,6,6,1&chl=%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88(230-86%20.374)|%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC(107-30%20.280)|%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88(47-17%20.362)|%E3%82%AB%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB(38-12%20.316)|%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF(31-9%20.290)|%E3%82%AB%E3%83%BC%E3%83%96(17-6%20.353)|%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E3%82%A2%E3%83%83%E3%83%97(28-6%20.214)|%E3%82%B7%E3%83%B3%E3%82%AB%E3%83%BC(1-1%201.000)&chtt=%E7%90%83%E7%A8%AE%E5%88%A5%E5%AE%89%E6%89%93%E5%89%B2%E5%90%88"  alt="球種別安打割合" border="1"/></div> <table class="responsive" style="width:100%;height:318px;">    <tbody>      <tr>        <th>球種</th>        <th>打率</th>        <th>打数</th>        <th>安打</th>        <th>本</th>        <th>四死</th>        <th>三振</th>      </tr> <tr><td>ストレート</td>        <td>.374</td>        <td>230</td>        <td>86</td>        <td>17</td>        <td>34</td>        <td>37</td> </tr><tr class="even"><td>スライダー</td>        <td>.280</td>        <td>107</td>        <td>30</td>        <td>4</td>        <td>26</td>        <td>16</td> </tr><tr><td>シュート</td>        <td>.362</td>        <td>47</td>        <td>17</td>        <td>3</td>        <td>3</td>        <td>4</td> </tr><tr class="even"><td>カットボール</td>        <td>.316</td>        <td>38</td>        <td>12</td>        <td>2</td>        <td>5</td>        <td>5</td> </tr><tr><td>フォーク</td>        <td>.290</td>        <td>31</td>        <td>9</td>        <td>1</td>        <td>10</td>        <td>10</td> </tr><tr class="even"><td>カーブ</td>        <td>.353</td>        <td>17</td>        <td>6</td>        <td>0</td>        <td>3</td>        <td>1</td> </tr><tr><td>チェンジアップ</td>        <td>.214</td>        <td>28</td>        <td>6</td>        <td>1</td>        <td>6</td>        <td>8</td> </tr><tr class="even"><td>シンカー</td>        <td>1.000</td>        <td>1</td>        <td>1</td>        <td>0</td>        <td>4</td>        <td>0</td> </tr>   </tbody>  </table>              <div style="margin: 10px;text-align:center;"> 
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+                 <!-- レスポンシブ140409 --> 
+                 <ins class="adsbygoogle" 
+                     style="display: block" 
+                     data-ad-client="ca-pub-6040929795707475" 
+                     data-ad-slot="6076446756" 
+                     data-ad-format="auto"></ins> 
+                 <script> 
+                     (adsbygoogle = window.adsbygoogle || []).push({}); 
+ </script> 
+ </div> 
+
+ <h3>データで楽しむプロ野球について</h3>
+ <p style="margin:10px; font-size:1em;">データで楽しむプロ野球は、NPBの試合データを独自集計したものが閲覧可能になっております。特にVDUCP(勝敗更新機会点)率という独自の指標を設け、選手の試合貢献度を図る検証をしています（UCと短縮しています。）。投手の最高球速や、犠打成功率、球種別成績、イニング別成績といった他にはない指標もございますのでぜひご覧ください。</p>
+
+  <h3>データについて</h3>  
+    <p style=" margin:10px; font-size:1em;">当サイトはデータの正確性を保証していません。当サイトの情報を元に何かしらのデータを作成して損害が発生しても一切の責任を負いません。</p>  
+    <h3>VDUCP(UC)（勝敗更新機会点）とは</h3>  
+    <p style=" margin:10px; font-size:1em;">当サイトの独自指標で、ホームランが出れば勝敗要素が変動する場面(広い意味での勝負どころ)においての打率、被打率を算出しています。<a href="http://www.plus-blog.sportsnavi.com/ymgr1125/article/1" target="_blank">ここでぐだぐだ説明しています。</a></p> 
+    <h3>VDUCP(UC)算出方法</h3>  
+    <div style="margin:10px;"><ul style="list-style-type: none;" class="vdul">  
+      <li class="vdli">1.打席に立った時点での得点差を算出し、</li>  
+      <li class="vdli">2.ホームランが出れば同点、勝ち越し、逆転となる場面ならVDUCP(UC)打数としてカウントします。</li>  
+      <li class="vdli">3.あとは通常通り安打数/打数で打率、被打率を計算します。</li>  
+      <li class="vdli">補足：リードしている（投手ならリードされている）場面ではいくら打っても（打たれても）勝敗要素は変動しないため、VDUCP(UC)にはカウントされません。</li>  
+    </ul></div>  
+
+<iframe frameborder="0" src="http://baseballdata.jp/profile.html" width="100%" height="500" scrolling="NO" title="更新情報"></iframe>
+
+
+ </div>
+<div class="footer-bk"><p style="text-align:center;line-height:20px;color:#fff;font-size:0.8em;">&copy;データで楽しむプロ野球 All Rights Reserved <p style="text-align:center;line-height:20px;color:#fff;font-size:0.8em;">　mail : <a href="mailto:info@baseballdata.jp">info@baseballdata.jp</a></p><p style="text-align:center;line-height:20px;color:#fff;font-size:0.8em;">　Last Update:2020/03/13 6:45:50</p></div>
+ </div>
+ <script>  
+   (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){  
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  
+   })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+  
+   ga("create", "UA-61000511-1", "auto"); 
+   ga("send", "pageview"); 
+ 
+ </script>
+ </body>
+</html>
+
